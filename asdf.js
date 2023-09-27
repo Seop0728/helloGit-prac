@@ -1,7 +1,7 @@
-const asdf = 10
+
+const asdf = 22222
+
 
 sum(req,res) => {
         hello world
 }
-
-응 말도 안되는코드얌
